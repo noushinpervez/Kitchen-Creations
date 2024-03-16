@@ -2,7 +2,7 @@
     {
         "recipe_id": 1,
         "recipe_name": "Classic Beef Burger",
-        "short_description": "Juicy beef patty with fresh vegetables and cheese",
+        "short_description": "Juicy beef patty topped with melted cheese, lettuce, pickles, all in a soft brioche bun.",
         "ingredients": [
             "200g ground beef",
             "1 hamburger bun",
@@ -14,14 +14,14 @@
             "Mustard",
             "Salt and pepper to taste"
         ],
-        "preparing_time": "20 min",
+        "preparing_time": "20 minutes",
         "calories": "500 calories",
         "recipe_image_url": "https://i.ibb.co/Z191F79/oskar-kadaksoo-z0-Z-O7b0-VVw-unsplash.jpg"
     },
     {
         "recipe_id": 2,
         "recipe_name": "Margarita Pizza",
-        "short_description": "Traditional Italian pizza with fresh tomato sauce and mozzarella cheese",
+        "short_description": "Traditional Italian pizza with fresh tomato sauce and mozzarella cheese.",
         "ingredients": [
             "1 pizza dough",
             "1 cup tomato sauce",
@@ -30,14 +30,14 @@
             "2 tablespoons olive oil",
             "Salt and pepper to taste"
         ],
-        "preparing_time": "25 min",
+        "preparing_time": "25 minutes",
         "calories": "400 calories",
         "recipe_image_url": "https://i.ibb.co/jGmgdxY/ivan-torres-MQUqbmsz-GGM-unsplash.jpg"
     },
     {
         "recipe_id": 3,
         "recipe_name": "Chicken Caesar Salad",
-        "short_description": "Crispy romaine lettuce with grilled chicken and Caesar dressing",
+        "short_description": "Crispy romaine lettuce with grilled chicken and Caesar dressing.",
         "ingredients": [
             "2 chicken breasts, grilled and sliced",
             "1 head of romaine lettuce, chopped",
@@ -46,14 +46,14 @@
             "Croutons",
             "Salt and pepper to taste"
         ],
-        "preparing_time": "15 min",
+        "preparing_time": "15 minutes",
         "calories": "350 calories",
         "recipe_image_url": "https://i.ibb.co/HBwKrB6/louis-hansel-xx-Ic-EAh-It-J0-unsplash.jpg"
     },
     {
         "recipe_id": 4,
         "recipe_name": "Vegetable Stir-Fry",
-        "short_description": "Colorful mix of fresh vegetables stir-fried in a savory sauce",
+        "short_description": "Colorful mix of fresh vegetables stir-fried in a savory sauce.",
         "ingredients": [
             "1 tablespoon vegetable oil",
             "1 onion, sliced",
@@ -67,7 +67,7 @@
             "1 tablespoon sesame oil",
             "Cooked rice for serving"
         ],
-        "preparing_time": "30 min",
+        "preparing_time": "30 minutes",
         "calories": "280 calories",
         "recipe_image_url": "https://i.ibb.co/QfXPncV/pexels-rachel-claire-5531102.jpg"
     },
@@ -85,14 +85,14 @@
             "1 teaspoon baking soda",
             "2 cups semisweet chocolate chips"
         ],
-        "preparing_time": "45 min",
+        "preparing_time": "45 minutes",
         "calories": "150 calories per cookie",
         "recipe_image_url": "https://i.ibb.co/P41bPKW/brent-ninaber-r98-Mc-HBXGN8-unsplash.jpg"
     },
     {
         "recipe_id": 6,
         "recipe_name": "Penne Arrabbiata",
-        "short_description": "Spicy Italian pasta dish with tomatoes and garlic",
+        "short_description": "Spicy Italian pasta dish with tomatoes and garlic.",
         "ingredients": [
             "300g penne pasta",
             "2 tablespoons olive oil",
@@ -102,7 +102,7 @@
             "Salt and pepper to taste",
             "Fresh parsley for garnish"
         ],
-        "preparing_time": "35 min",
+        "preparing_time": "35 minutes",
         "calories": "320 calories",
         "recipe_image_url": "https://i.ibb.co/9NQzcLS/pexels-jana-ohajdova-10310664.jpg"
     }
