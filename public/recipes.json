@@ -1,0 +1,109 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Classic Beef Burger",
+        "short_description": "Juicy beef patty with fresh vegetables and cheese",
+        "ingredients": [
+            "200g ground beef",
+            "1 hamburger bun",
+            "1 slice of cheddar cheese",
+            "Lettuce",
+            "Tomato slices",
+            "Onion slices",
+            "Ketchup",
+            "Mustard",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "500 calories",
+        "recipe_image_url": "https://i.ibb.co/Z191F79/oskar-kadaksoo-z0-Z-O7b0-VVw-unsplash.jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Margarita Pizza",
+        "short_description": "Traditional Italian pizza with fresh tomato sauce and mozzarella cheese",
+        "ingredients": [
+            "1 pizza dough",
+            "1 cup tomato sauce",
+            "200g mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "2 tablespoons olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "400 calories",
+        "recipe_image_url": "https://i.ibb.co/jGmgdxY/ivan-torres-MQUqbmsz-GGM-unsplash.jpg"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Caesar Salad",
+        "short_description": "Crispy romaine lettuce with grilled chicken and Caesar dressing",
+        "ingredients": [
+            "2 chicken breasts, grilled and sliced",
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/4 cup grated Parmesan cheese",
+            "Croutons",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "350 calories",
+        "recipe_image_url": "https://i.ibb.co/HBwKrB6/louis-hansel-xx-Ic-EAh-It-J0-unsplash.jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "Colorful mix of fresh vegetables stir-fried in a savory sauce",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 cup snow peas",
+            "2 carrots, sliced",
+            "1/4 cup soy sauce",
+            "2 tablespoons hoisin sauce",
+            "1 tablespoon sesame oil",
+            "Cooked rice for serving"
+        ],
+        "preparing_time": "30 min",
+        "calories": "280 calories",
+        "recipe_image_url": "https://i.ibb.co/QfXPncV/pexels-rachel-claire-5531102.jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Homemade cookies filled with chocolate chips",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "2 cups semisweet chocolate chips"
+        ],
+        "preparing_time": "45 min",
+        "calories": "150 calories per cookie",
+        "recipe_image_url": "https://i.ibb.co/P41bPKW/brent-ninaber-r98-Mc-HBXGN8-unsplash.jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Penne Arrabbiata",
+        "short_description": "Spicy Italian pasta dish with tomatoes and garlic",
+        "ingredients": [
+            "300g penne pasta",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1 can (400g) diced tomatoes",
+            "1 teaspoon red pepper flakes",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+        ],
+        "preparing_time": "35 min",
+        "calories": "320 calories",
+        "recipe_image_url": "https://i.ibb.co/9NQzcLS/pexels-jana-ohajdova-10310664.jpg"
+    }
+]
