@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'banner-bg':
-          "linear-gradient(0deg, rgba(21, 11, 43, 0.90) 0%, rgba(21, 11, 43, 0.00) 100%), url('./src/assets/banner.jpg')",
+          "linear-gradient(0deg, rgba(21, 11, 43, 0.90) 0%, rgba(21, 11, 43, 0.00) 100%), url('https://i.ibb.co/qJd4c56/d57b5fb5ad84c9f6a9b1eb9782e9b11b.jpg')",
       },
       colors: {
         buttonColor: '#0BE58A',

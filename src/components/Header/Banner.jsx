@@ -2,7 +2,7 @@ const Banner = () => {
     return (
         <div className="bg-banner-bg bg-cover bg-center rounded-3xl hero min-h-screen">
             <div className="hero-content text-center text-neutral-content">
-                <div className="lg:w-[70%] w-11/12">
+                <div className="lg:w-4/5 w-11/12">
                     <h1 className="mb-2 lg:mb-6 text-2xl lg:text-5xl font-bold lg:leading-[76px]">Discover the Joy of Cooking with Our Flavorful Recipe Selection</h1>
                     <p className="mb-5 lg:mb-10 text-sm lg:text-lg lg:leading-8">A progression of rare and beautiful ingredients where texture, flavour and harmony is paramount. Delve into the Kitchen Creations dining experience with our recipes.</p>
                     <div className="flex gap-2 lg:gap-6 justify-center">
