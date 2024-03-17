@@ -4,6 +4,8 @@ import Title from "./Title";
 import WantToCook from "./Sidebar/WantToCook/WantToCook";
 import { useState } from "react";
 import { useEffect } from "react";
+import { ToastContainer, Zoom, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Recipes = () => {
     const [recipes, setRecipes] = useState([]);
@@ -16,6 +18,10 @@ const Recipes = () => {
         if (!wantToCook.includes(recipe) && !currentlyCooking.includes(recipe)) {
             addRecipe = [...wantToCook, recipe];
             setWantToCook(addRecipe);
+            toast.success(`Added "${recipe.recipe_name}" to "Want to cook"`);
+        }
+        else {
+            toast.error(`"${recipe.recipe_name}" is already in the "${wantToCook.includes(recipe) ? 'Want To Cook' : 'Currently Cooking'}" list`);
         }
     };
 
@@ -25,6 +31,7 @@ const Recipes = () => {
         if (!currentlyCooking.includes(recipe)) {
             addCooking = [...currentlyCooking, recipe];
             setCurrentlyCooking(addCooking);
+            toast.success(`Added "${recipe.recipe_name}" to "Currently Cooking"`);
         }
 
         const remainingWantToCook = wantToCook.filter(wantToCook => wantToCook.recipe_id !== id);
@@ -51,6 +58,20 @@ const Recipes = () => {
                     <CurrentlyCooking currentlyCooking={ currentlyCooking } ></CurrentlyCooking>
                 </div>
             </div>
+            <ToastContainer
+                position="top-right"
+                autoClose={ 3000 }
+                limit={ 3 }
+                hideProgressBar={ true }
+                newestOnTop
+                closeOnClick
+                rtl={ false }
+                pauseOnFocusLoss
+                draggable
+                pauseOnHover={ false }
+                theme="light"
+                transition={ Zoom }
+            />
         </>
     );
 };
