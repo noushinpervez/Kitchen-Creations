@@ -12,7 +12,7 @@ const CurrentlyCookingRecipe = ({ idx, currentlyCooking }) => {
 };
 
 CurrentlyCookingRecipe.propTypes = {
-    currentlyCooking: PropTypes.array,
+    currentlyCooking: PropTypes.object,
     idx: PropTypes.number
 }
 

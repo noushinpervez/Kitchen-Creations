@@ -14,7 +14,7 @@ const WantToCookInfo = ({ idx, wantToCook, handleCurrentlyCooking }) => {
 
 WantToCookInfo.propTypes = {
     handleCurrentlyCooking: PropTypes.func,
-    wantToCook: PropTypes.array,
+    wantToCook: PropTypes.object,
     idx: PropTypes.number
 }
 

@@ -16,7 +16,7 @@
         ],
         "preparing_time": "20 minutes",
         "calories": "500 calories",
-        "recipe_image_url": "https://i.ibb.co/Z191F79/oskar-kadaksoo-z0-Z-O7b0-VVw-unsplash.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1688919010273-2290b630d51d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "recipe_id": 2,
@@ -32,7 +32,7 @@
         ],
         "preparing_time": "25 minutes",
         "calories": "400 calories",
-        "recipe_image_url": "https://i.ibb.co/jGmgdxY/ivan-torres-MQUqbmsz-GGM-unsplash.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "recipe_id": 3,
@@ -48,7 +48,7 @@
         ],
         "preparing_time": "15 minutes",
         "calories": "350 calories",
-        "recipe_image_url": "https://i.ibb.co/HBwKrB6/louis-hansel-xx-Ic-EAh-It-J0-unsplash.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1543826173-cfe2ca17577d?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "recipe_id": 4,
@@ -69,7 +69,7 @@
         ],
         "preparing_time": "30 minutes",
         "calories": "280 calories",
-        "recipe_image_url": "https://i.ibb.co/QfXPncV/pexels-rachel-claire-5531102.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "recipe_id": 5,
@@ -87,7 +87,7 @@
         ],
         "preparing_time": "45 minutes",
         "calories": "150 calories per cookie",
-        "recipe_image_url": "https://i.ibb.co/P41bPKW/brent-ninaber-r98-Mc-HBXGN8-unsplash.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1618774491810-d44e4ebf7501?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "recipe_id": 6,
@@ -104,6 +104,6 @@
         ],
         "preparing_time": "35 minutes",
         "calories": "320 calories",
-        "recipe_image_url": "https://i.ibb.co/9NQzcLS/pexels-jana-ohajdova-10310664.jpg"
+        "recipe_image_url": "https://images.unsplash.com/photo-1693609930472-cf329a4d691b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]

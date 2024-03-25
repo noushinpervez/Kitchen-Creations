@@ -6,7 +6,7 @@ const RecipeCard = ({ recipe, handleWantToCook }) => {
     const { recipe_name, short_description, recipe_image_url, ingredients, preparing_time, calories } = recipe;
 
     return (
-        <div className="border border-dark/20 p-3 lg:p-6 rounded-2xl text-darkParagraph hover:ring-2 hover:ring-buttonColor hover:bg-hover/20 transition-all duration-300 ease-in">
+        <div className="border border-dark/20 p-3 lg:p-6 rounded-2xl text-darkParagraph hover:ring-2 hover:ring-buttonColor hover:bg-hover/20 transition-all duration-300 ease-in flex flex-col">
             <div className="mb-3 lg:mb-6 h-48">
                 <img src={ recipe_image_url } alt={ `${recipe_name}` } className="rounded-2xl w-full h-full object-cover" />
             </div>

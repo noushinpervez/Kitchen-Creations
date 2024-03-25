@@ -7,10 +7,10 @@ const Navbar = () => {
         <div className="navbar my-3 lg:my-12 p-0">
             <div className="navbar-start">
                 <div className="dropdown">
-                    <div tabindex="0" role="button" className="btn btn-ghost lg:hidden">
+                    <div tabIndex={ 0 } role="button" className="btn btn-ghost lg:hidden">
                         <FaBars />
                     </div>
-                    <ul tabindex="0" className="menu menu-sm dropdown-content z-[1] rounded-box bg-buttonColor">
+                    <ul tabIndex={ 0 } className="menu menu-sm dropdown-content z-[1] rounded-box bg-buttonColor">
                         <li><a className="transition-all duration-300 ease-in">Home</a></li>
                         <li><a className="transition-all duration-300 ease-in">Recipes</a></li>
                         <li><a className="transition-all duration-300 ease-in">About</a></li>
